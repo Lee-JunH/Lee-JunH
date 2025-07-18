@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=JJUNN&fontSize=60" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=JUN&fontSize=30" />
 
 
 <div align="center">
@@ -41,13 +41,14 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lee-JunH&show_icons=true&theme=apprentice" alt="Anurag's GitHub stats" width="40%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-JunH" alt="Top Languages" width="25%">
-</p>
-
-<p align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jungeol1006" alt="Solved.ac 프로필" width="49%">
   <img src="http://mazandi.herokuapp.com/api?handle=jungeol1006&theme=dark" alt="Mazandi 프로필" width="49%">
 </p>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lee-JunH&show_icons=true&theme=apprentice" alt="Anurag's GitHub stats" width="56%">
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-JunH&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+</a>
 
