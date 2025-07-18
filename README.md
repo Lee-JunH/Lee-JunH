@@ -1,8 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=JJUNN&fontSize=60" />
 
-## Hi there 👋
-### Welcome to my Github :)
----
 
 <div align="center">
 <h2 align="center">🛠 Tech Stack</h2>
