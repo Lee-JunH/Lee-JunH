@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=JJUNN&fontSize=60" />
+
 ## Hi there 👋
 ### Welcome to my Github :)
 ---
@@ -6,6 +8,10 @@
 <h2 align="center">🛠 Tech Stack</h2>
 <p align="center">Techs that I've used at least once</p>
 
+  <h4>📝 boj</h4>
+  
+  [![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jungeol1006)](https://solved.ac/jungeol1006)
   <!-- 언어 -->
   <h4>📝 Languages</h4>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
@@ -38,7 +44,8 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lee-JunH&show_icons=true&theme=apprentice" alt="Anurag's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lee-JunH&show_icons=true&theme=apprentice" alt="Anurag's GitHub stats" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-JunH" alt="Top Languages" width="49%">
 </p>
 
 <p align="center">
