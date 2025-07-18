@@ -44,8 +44,8 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lee-JunH&show_icons=true&theme=apprentice" alt="Anurag's GitHub stats" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-JunH" alt="Top Languages" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lee-JunH&show_icons=true&theme=apprentice" alt="Anurag's GitHub stats" width="40%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-JunH" alt="Top Languages" width="25%">
 </p>
 
 <p align="center">
