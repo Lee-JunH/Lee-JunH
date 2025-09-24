@@ -45,20 +45,14 @@
   <img src="http://mazandi.herokuapp.com/api?handle=jungeol1006&theme=dark" alt="Mazandi 프로필" width="49%">
 </p>
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=Lee-JunH&show_icons=true&theme=apprentice" alt="Anurag's GitHub stats" width="100%" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-JunH&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width="100%" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Lee-JunH&show_icons=true&theme=apprentice" alt="Anurag's GitHub stats" width="49%" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-JunH&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width="49%" alt="Top langs" />
+  </a>
+</p>
 
 <div align="center">
   <img src="https://github.com/Lee-JunH/Lee-JunH/blob/output/github-contribution-grid-snake.svg">
